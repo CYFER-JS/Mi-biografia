@@ -27,3 +27,8 @@ soy estudiante del SENATI, en la carrera de Ingenieria en Software con Inteligen
 # Objetivo 
 Convertirme en desarrollador profesional y asi poder trabajar en proyectos grandes, para grandes empresas,
 ya sean nacionales o internacionales.
+
+# ¿Que espero de esta capacitación?
+
+Espero poder arender mucho con esta capacitacion para asi poder integrarme en los proximos proyectos que se vengan,
+y asi mismo poder llenarme de mas conocimientos para asi llegar a ser un buen profesional. 
