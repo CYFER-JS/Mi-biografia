@@ -23,3 +23,7 @@ soy estudiante del SENATI, en la carrera de Ingenieria en Software con Inteligen
 # Experiencia 
 - Actualmente me encuentro en formacion academica, desarrollando proyectos academicos,
   no tengo aun una partipacion  en algun proyecto grande.
+
+# Objetivo 
+Convertirme en desarrollador profesional y asi poder trabajar en proyectos grandes, para grandes empresas,
+ya sean nacionales o internacionales.
